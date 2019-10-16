@@ -3,6 +3,7 @@
 *.tif.properties
 *.hdf
 *.h5
+*.h5.properties
 *.pyc
 *checkpoint.py
 *checkpoint.ipynb

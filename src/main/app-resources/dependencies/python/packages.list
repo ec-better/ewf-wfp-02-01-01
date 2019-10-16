@@ -440,7 +440,7 @@ webencodings=0.5=py27_0
 werkzeug=0.15.4=py_0
 wheel=0.33.4=py27_0
 whichcraft=0.6.0=py_0
-whittaker=1.0.1=py27hd16cb04_2
+whittaker=2.0.1=py27hdca2ae4_0
 widgetsnbextension=3.4.2=py27_0
 wrapt=1.10.11=py27h04f6869_0
 xlrd=1.2.0=py27_0
