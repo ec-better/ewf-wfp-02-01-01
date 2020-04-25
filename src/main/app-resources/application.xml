@@ -2,7 +2,7 @@
   <jobTemplates>
     <jobTemplate id="notebook">
       <streamingExecutable>/application/notebook/run</streamingExecutable>
-      <defaultParameters/>
+      <defaultParameters><parameter id="startdate" title="Start date" abstract="Start date" maxOccurs="1" scope="runtime" type="LiteralData">2016-01-01T00:00Z</parameter><parameter id="enddate" title="End date" abstract="End date" maxOccurs="1" scope="runtime" type="LiteralData">2016-02-01T00:00Z</parameter><parameter id="catalogue_url" title="catalogue url" abstract="catalogue url" maxOccurs="1" scope="runtime" type="LiteralData">https://catalog.terradue.com/modis/search</parameter><parameter id="pt" title="pt" abstract="pt" maxOccurs="1" scope="runtime" type="LiteralData">MOD11C2</parameter></defaultParameters>
      <defaultJobconf>
         <property id="mapred.task.timeout">9900000000000</property>
         <property id="ciop.job.max.tasks">1</property> 
