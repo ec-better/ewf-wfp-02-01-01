@@ -11,7 +11,7 @@
     <version>2.0.0</version>
   </parent>
   <description>Smoothed Gap-Filled Land Surface Temperature Time Series</description>
-  <version>0.10-SNAPSHOT</version>
+  <version>0.10</version>
   <properties>
     <summary>Smoothed Gap-Filled Land Surface Temperature Time Series</summary>
     <description>Smoothed Gap-Filled Land Surface Temperature Time Series</description>
